@@ -7,5 +7,5 @@ function whisper(string){
 }
 
 function logShout(string){
-  var spy = 
+  const spy =  
 }
